@@ -12,7 +12,7 @@ cmake的安装直接终端运行
 ```shell
 sudo apt install cmake
 ```
-CppAD和Ipopt的安装参考[博客资料]()。
+CppAD和Ipopt的安装参考[博客资料](https://blog.csdn.net/weixin_42301220/article/details/127946528).
 
 
 ### 编译项目
